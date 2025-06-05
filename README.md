@@ -109,8 +109,10 @@ const agents = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tommybroomhall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommybroomhall&layout=compact&langs_count=8&theme=tokyonight"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tommybroomhall&theme=tokyonight)](https://git.io/streak-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tommybroomhall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommybroomhall&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
